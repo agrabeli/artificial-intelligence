@@ -1,3 +1,3 @@
-# AI
+# Artificial Intelligence 
 
 This repository is used to collect resources on artificial intelligence (and its subfields).   
